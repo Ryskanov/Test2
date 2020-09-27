@@ -1,0 +1,2 @@
+D:\TestLast\Test2Client\Test2Client\Debug\Test2Client.exe
+D:\TestLast\Test2Client\Test2Client\Debug\Test2Client.pdb

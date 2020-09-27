@@ -1,0 +1,2 @@
+D:\TestLast\Test2\Test2\Debug\Test2.dll
+D:\TestLast\Test2\Test2\Debug\Test2.pdb
