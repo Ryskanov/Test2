@@ -8,4 +8,5 @@ int main()
     str = "Hello, world!\n";
     std::cout << str;
     std::cout << upper(str);
+    system("pause");
 }
